@@ -1,0 +1,22 @@
+.grid{
+    padding: 1rem;
+    max-width: 70rem;
+    margin: 0px auto;
+}
+.filter{
+    width: 100%;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+.filteredby select{
+    outline: none;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: solid 2px turquoise;
+    color: turquoise;
+    background: transparent;
+}
+.cursor{
+    cursor: pointer;
+}
